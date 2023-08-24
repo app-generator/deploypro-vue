@@ -1,4 +1,4 @@
-# [DeployPRO](https://deploypro.dev/) `Vue Sample` 
+# [DeployPRO Vue](https://www.docs.deploypro.dev/samples/vue) `Free Sample`
 
 Minimal `Vue Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
 
@@ -24,4 +24,4 @@ $ yarn build  # production
 <br />
 
 ---
-Vue Sample - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
+[Vue Starter](https://www.docs.deploypro.dev/samples/vue) - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
